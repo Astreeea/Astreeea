@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/render?type=wave&color=5865F2&height=200&section=header&text=Code%20is%20my%20Voice&fontSize=70&animation=twinkling" alt="Code is my Voice](https://imgur.com/a/k6irBsN)" />
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=5865F2&height=200&section=header&text=Code%20is%20my%20Voice&fontSize=70&animation=twinkling" alt="Code is my Voice" />
 
   ### 🌌 Développeuse Discord.js | Assistante Lead Tech | Créatrice de Luna
   *(Ex-Responsable SysAdmin @ Gaming Industry)*
@@ -26,6 +26,14 @@ Ancienne responsable d'équipe SysAdmin dans l'industrie du jeu vidéo et aujour
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Infrastructure-Gaming-EB001B?style=for-the-badge&logo=unrealengine&logoColor=white" />
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
