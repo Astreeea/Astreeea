@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=6366f1&height=200&section=header&text=Moi,%20c'est%20[Ton%20Nom]&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=6366f1&height=200&section=header&text=Code%20is%20my%20Voice&fontSize=70&animation=fadeIn" />
 
   ### 🌌 Développeuse Discord.js | Ex-Lead SysAdmin (Gaming Industry) | Créatrice de Luna
 </div>
