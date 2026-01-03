@@ -30,14 +30,6 @@ Ancienne responsable d'équipe SysAdmin dans l'industrie du jeu vidéo et aujour
 
 ---
 
-## 📊 Statistiques GitHub
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🔗 Me contacter (Par écrit uniquement 👋)
 
 <div align="center">
