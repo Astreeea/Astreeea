@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=5865F2&height=200&section=header&text=Code%20is%20my%20Voice&fontSize=70&animation=twinkling" alt="Code is my Voice" />
+  <img src="[https://capsule-render.vercel.app/render?type=wave&color=5865F2&height=200&section=header&text=Code%20is%20my%20Voice&fontSize=70&animation=twinkling" alt="Code is my Voice](https://imgur.com/a/k6irBsN)" />
 
   ### 🌌 Développeuse Discord.js | Assistante Lead Tech | Créatrice de Luna
   *(Ex-Responsable SysAdmin @ Gaming Industry)*
