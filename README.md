@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=6366f1&height=200&section=header&text=Code%20is%20my%20Voice&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=5865F2&height=200&section=header&text=Code%20is%20my%20Voice&fontSize=70&animation=twinkling" alt="Code is my Voice" />
 
-  ### 🌌 Développeuse Discord.js | Ex-Lead SysAdmin (Gaming Industry) | Créatrice de Luna
+  ### 🌌 Développeuse Discord.js | Assistante Lead Tech | Créatrice de Luna
+  *(Ex-Responsable SysAdmin @ Gaming Industry)*
 </div>
 
 ---
 
 ## 🎙️ Ma voix passe par le code
-Ancienne responsable d'équipe SysAdmin dans l'industrie du jeu vidéo et aujourd'hui Assistante Lead Tech, je suis **muette**, mais mes lignes de code parlent pour moi. Mon expertise système me permet de bâtir des infrastructures solides pour des outils de communication innovants.
+Ancienne responsable d'équipe SysAdmin dans l'industrie du jeu vidéo et aujourd'hui **Assistante Lead Tech**, je suis **muette**, mais mes lignes de code parlent pour moi. Mon expertise système me permet de bâtir des infrastructures solides pour des outils de communication innovants.
 
 ### 🌙 Mon projet phare : Luna
-**Luna** est un bot Discord conçu en **Node.js**. C'est mon interface avec le monde : un système de **Text-To-Speech (TTS)** avancé, fluide et performant. 
+**Luna** est un bot Discord conçu exclusivement en **Node.js**. C'est mon interface avec le monde : un système de **Text-To-Speech (TTS)** avancé, fluide et performant, conçu pour briser les barrières de la communication.
 > *"Parce que le silence n'est pas une absence de message, mais une autre façon de coder."*
 
 ---
