@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/a/k6irBsN" alt="Code is my Voice" />
+  <img src="https://github.com/Astreeea/Nova/blob/main/img/f.png?raw=true" alt="Code is my Voice" />
 
   ### 🌌 Développeuse Discord.js | Assistante Lead Tech | Créatrice de Luna
   *(Ex-Responsable SysAdmin @ Gaming Industry)*
