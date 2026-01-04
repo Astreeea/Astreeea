@@ -1,26 +1,26 @@
 <div align="right">
-  <a href="README.fr.md"><b>Français 🇫🇷</b></a> | <b>English 🇬🇧</b>
+  <b>Français 🇫🇷</b> | <a href="README_en.md">English 🇬🇧</a>
 </div>
 
 <div align="center">
   <img src="https://github.com/Astreeea/Nova/blob/main/img/f.png?raw=true" alt="Code is my Voice" />
 
-  ### 🌌 Discord.js Developer | Lead Tech Assistant | Creator of Luna
-  *(Ex-SysAdmin Lead @ Gaming Industry)*
+  ### 🌌 Développeuse Discord.js | Assistante Lead Tech | Créatrice de Luna
+  *(Ex-Responsable SysAdmin @ Gaming Industry)*
 </div>
 
 ---
 
-## 🎙️ My code is my voice
-Former SysAdmin team lead in the gaming industry and currently **Lead Tech Assistant**, I am **non-verbal**, but my lines of code speak for me. My systems expertise allows me to build robust infrastructures for innovative communication tools.
+## 🎙️ Ma voix passe par le code
+Ancienne responsable d'équipe SysAdmin dans l'industrie du jeu vidéo et aujourd'hui **Assistante Lead Tech**, je suis **muette**, mais mes lignes de code parlent pour moi. Mon expertise système me permet de bâtir des infrastructures solides pour des outils de communication innovants.
 
-### 🌙 My flagship project: Luna
-**Luna** is a Discord bot built exclusively with **Node.js**. It is my interface with the world: an advanced, fluid, and high-performance **Text-To-Speech (TTS)** system, designed to break communication barriers.
-> *"Because silence is not an absence of message, but another way of coding."*
+### 🌙 Mon projet phare : Luna
+**Luna** est un bot Discord conçu exclusivement en **Node.js**. C'est mon interface avec le monde : un système de **Text-To-Speech (TTS)** avancé, fluide et performant, conçu pour briser les barrières de la communication.
+> *"Parce que le silence n'est pas une absence de message, mais une autre façon de coder."*
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Mon Arsenal Technique
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -29,16 +29,16 @@ Former SysAdmin team lead in the gaming industry and currently **Lead Tech Assis
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gaming-Infrastructure-EB001B?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-Gaming-EB001B?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </div>
 
 ---
 
-## 🔗 Contact Me (Written communication only 👋)
+## 🔗 Me contacter (Par écrit uniquement 👋)
 
 <div align="center">
   <a href="https://discord.gg/VwahE5HC6v">
-    <img src="https://img.shields.io/badge/Discord-Luna_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Serveur_Luna-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
