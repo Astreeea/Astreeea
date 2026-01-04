@@ -1,6 +1,4 @@
-<div align="right">
-  <b>Français 🇫🇷</b> | <a href="README_en.md">English 🇬🇧</a>
-</div>
+
 
 <div align="center">
   <img src="https://github.com/Astreeea/Nova/blob/main/img/f.png?raw=true" alt="Code is my Voice" />
